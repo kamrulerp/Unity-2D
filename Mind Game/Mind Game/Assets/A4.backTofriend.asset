@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6cf11682b5e14e429521772a4c39f20, type: 3}
+  m_Name: A4.backTofriend
+  m_EditorClassIdentifier: 
+  storyText: "Back your Frind number to her , whose number you take from friend.\n\n\n\n\n\nPress
+    \"N\" to go Next Stage.       \n\nPress \"P\" To go Previous Page."
+  nextState:
+  - {fileID: 11400000, guid: 25e9d3f95673ecb4aaed2e937f56fbc3, type: 2}
+  - {fileID: 11400000, guid: 49cc1ff0cc31d394fb6b8e10c663818f, type: 2}
